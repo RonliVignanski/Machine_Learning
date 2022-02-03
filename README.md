@@ -7,7 +7,7 @@ These are five little projects I have done during the course: Introduction to Ma
 ---
 
 ### Ex1 
-Implementing K - means algorithm.
+Implementing K-means algorithm.
 
 ---
 
