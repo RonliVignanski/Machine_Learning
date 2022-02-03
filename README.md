@@ -12,7 +12,7 @@ Implementing K-means algorithm.
 ---
 
 ### Ex2
-Implementing algorithms which are from the classification type. Specifically, implementing KNN, perceptron, pasive aggressive and SVM.
+Implementing classification algorithms. Specifically, implementing KNN, perceptron, pasive aggressive and SVM.
 For each algorithm I implemented train and test methods. I chose hyper-parameters by using K-fold method.
 
 ---
