@@ -2,7 +2,7 @@
 # Machine Learning
 
 ## About
-These are five little projects I have done during thr course: Introduction to Machine Learning.
+These are five little projects I have done during the course: Introduction to Machine Learning.
 
 ---
 
